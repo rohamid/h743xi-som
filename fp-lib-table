@@ -4,4 +4,6 @@
   (lib (name "IS42S16160J-6BLI")(type "KiCad")(uri "${KIPRJMOD}/lib/IS42S16160J-6BLI/IS42S16160J-6BLI.pretty")(options "")(descr ""))
   (lib (name "IS42S16160J-6BLI (1)")(type "KiCad")(uri "${KIPRJMOD}/lib/IS42S16160J-6BLI (1)")(options "")(descr ""))
   (lib (name "S34ML01G200BHI000")(type "KiCad")(uri "${KIPRJMOD}/lib/S34ML01G200BHI000/S34ML01G200BHI000.pretty")(options "")(descr ""))
+  (lib (name "lib")(type "KiCad")(uri "${KIPRJMOD}/lib")(options "")(descr ""))
+  (lib (name "KLM8G1GETF-B0410")(type "KiCad")(uri "${KIPRJMOD}/lib/KLM8G1GETF-B0410/KLM8G1GETF-B0410.pretty")(options "")(descr ""))
 )

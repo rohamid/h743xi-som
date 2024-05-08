@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KLM8G1GETF-B0410
+D MLC NAND Flash Serial e-MMC 64G-bit 64G x 1
+K
+F https://datasheet.lcsc.com/lcsc/2007301503_Samsung-KLM8G1GETF-B041_C499918.pdf
+$ENDCMP
+#
+#End Doc Library

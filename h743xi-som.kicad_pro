@@ -594,6 +594,14 @@
     [
       "cbb0667c-a1a7-42b3-9364-841e4f705da1",
       "Root"
+    ],
+    [
+      "5fb5460f-9b35-4d62-ba87-92b111a0f637",
+      "POWER"
+    ],
+    [
+      "bcd56898-87eb-413a-92a7-b5a66f65e2bf",
+      "Memory"
     ]
   ],
   "text_variables": {}
