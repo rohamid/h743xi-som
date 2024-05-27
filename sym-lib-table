@@ -8,4 +8,5 @@
   (lib (name "Memory_SDRAM")(type "KiCad")(uri "${KIPRJMOD}/lib/Memory_SDRAM/Memory_SDRAM.kicad_sym")(options "")(descr ""))
   (lib (name "Memory_NAND_FLASH")(type "KiCad")(uri "${KIPRJMOD}/lib/Memory_NAND_FLASH/Memory_NAND_FLASH.kicad_sym")(options "")(descr ""))
   (lib (name "Memory_EMMC")(type "KiCad")(uri "${KIPRJMOD}/lib/Memory_EMMC/Memory_EMMC.kicad_sym")(options "")(descr ""))
+  (lib (name "Memory_NOR_FLASH")(type "KiCad")(uri "${KIPRJMOD}/lib/Memory_NOR_FLASH/Memory_NOR_FLASH.kicad_sym")(options "")(descr ""))
 )

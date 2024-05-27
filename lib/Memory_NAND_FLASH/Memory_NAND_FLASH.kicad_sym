@@ -7,15 +7,15 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 26.416 0)
+			(at 0 27.178 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" ""
-			(at -8.89 22.86 0)
+		(property "Value" "MX30LF1G18AC-XKI"
+			(at -0.254 24.638 0)
 			(effects
 				(font
 					(size 1.27 1.27)

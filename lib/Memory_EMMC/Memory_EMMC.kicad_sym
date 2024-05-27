@@ -7,15 +7,15 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 29.972 0)
+			(at 0 32.512 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" ""
-			(at -11.43 27.94 0)
+		(property "Value" "KLM8G1GETF-B041"
+			(at 0 29.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
